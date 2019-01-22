@@ -1,0 +1,13 @@
+
+
+.kennel {
+  
+  display: flex;
+  justify-content: space-around, space-between;
+  flex-direction: column;
+  background: conic-gradient(red, yellow, lime, aqua, blue, magenta, red);
+  font: bolder;
+  border-radius: 12px;
+  padding:40px;
+
+  }
